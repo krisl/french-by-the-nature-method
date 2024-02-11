@@ -5,7 +5,7 @@ Une heure a soixante (60) minutes.
 Une demi-heure a trente minutes.
 Un quart d’heure a quinze minutes.
 Une minute a soixante secondes.
-Combien d’heures une nuit a-t^elle?
+Combien d’heures une nuit a-t-elle?
 Une nuit a douze heures.
 Combien de secondes une minute a-t-elle?
 Une minute a soixante secondes.
@@ -23,26 +23,26 @@ c’est l’après-midi entre midi et dix-huit heures.
 Entre dix-huit heures et minuit, c’est le soir.
 
 L'après-midi est après le matin; le soir est après l'après-midi.
-La nuit, les enfants de la famille Duclos sont  au lit.
+La nuit, les enfants de la famille Duclos sont au lit.
 Jean et Nicole sont au lit de neuf heures du soir à six heures et demie du matin;
 Yvonne et Henri sont au lit de huit heures du soir à sept heures moins un quart.
-Yvonne qt Henri yont au lit à huit heures, et Nicole et Jean vont au lit à neuf heures.
+Yvonne qt Henri vont au lit à huit heures, et Nicole et Jean vont au lit à neuf heures.
 Nicole et Jean vont au lit une heure plus tard qu’Yvonne et Henri.
 Les parents vont au lit à onze heures ou à minuit;
 il est tard quand ils vont au lit.
 Les parents vont au lit plus tard que leurs enfants.
-Le matin et l'après-midi, Jean, Nicole et Henri sont à Pécole.
+Le matin et l'après-midi, Jean, Nicole et Henri sont à l'école.
 L’école commence à huit heures du matin.
 Le matin, les enfants sont à l’école de huit heures à midi, et l’après-midi, ils sont à l’école de deux heures à quatre heures.
 Ils sont à l’école six heures par jour.
 Entre midi et deux heures, ils sont à la maison.
 En France, les enfants, commencent l’école quand il sont six ans.
-Yvonne n’a que cinq ans; elle ne va pas àl’école.
+Yvonne n’a que cinq ans; elle ne va pas à l’école.
 Mais Jean, Nicole et Henri vont à l’école.
 Ils vont à l’école cinq jours par semaine;
 les cinq; jours de la semaine où ils vont à l’école sont:
 lundi, mardi, mercredi, vendredi et samedi.
-Le jeudi et le dimanche, ils ne vpnt pas à l’école.
+Le jeudi et le dimanche, ils ne vont pas à l’école.
 Les jours où les'enfants ne vont pas à l’école, ils sont à la maison.
 «Nicole, combien de jours par semaine vas-tu à l’école?»
 «Je vais à l’école cinq jours par semaine.»
@@ -59,10 +59,10 @@ Les jours où les'enfants ne vont pas à l’école, ils sont à la maison.
 «A quelle heure commence l'école, le matin?» «Le matin, l'école commence à huit heures.» 
 «A quelle heure commencez-vous l'école, l'après-midi?» «L’après-midi, nous commençons l'école à deux heures.»
 «Où êtes-vous entre midi et deux heures?» «Entre midi et deux heures, nous sommes à la maison.»
-«A quelle heure quittez-vous l'école, raprès-midi?» «L’après-midi, nous quittons l’école à quatre heures.»
+«A quelle heure quittez-vous l'école, l’après-midi?» «L’après-midi, nous quittons l’école à quatre heures.»
 «Et quand; arrivez-vous à la maison?» «Nous arrivons à la maison une demi-heure plus tard.»
 «Jean, quelle heure est-il?» «Il est trois heures moins un quart.»
-«Pourquoi n’es-tu pas à l’école?» «Je ne suis pas à l’école parce que c’est aujourd'hui jeudi, et le jeudi je ne vais pas à l’école. Aujourd’hui,-je suis à la maison.»
+«Pourquoi n’es-tu pas à l’école?» «Je ne suis pas à l’école parce que c’est aujourd'hui jeudi, et le jeudi je ne vais pas à l’école. Aujourd’hui, je suis à la maison.»
 .«Ta sœur Nicole, est-elle aussi à la maison aujourd’hui?» «Non, elle n’est pas à la maison aujourd’hui. Louise Lebrun et Nicole sont à la campagne aujourd’hui.»
 «A quelle heure vas-tu au lit, Jean?»  «je vais au lit à neuf heures du soir.»
 «Et à quelle heure Yvonne et Henri vont-ils au lit?» «Ils vont au lit à huit heures.»
