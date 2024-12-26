@@ -469,8 +469,8 @@ Hello, my children!
 Est-ce que tu as été une petite fille sage,
 Have you been a good little girl
 
-VYvonne? »
-VYvonne? "
+Yvonne? »
+Yvonne? "
 
 Et Yvonne dit toujours:
 And Yvonne always says:
